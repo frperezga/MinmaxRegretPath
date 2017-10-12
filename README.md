@@ -1,6 +1,9 @@
 # MinmaxRegretPath
 Instances for the Minmax regret path problem
 
+The Best Know Solutions for these instances are: 
+
+
 %\begin{table}[h!]
 %	\centering
 %	\footnotesize
